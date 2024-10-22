@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/PocketProX/PocketProX#readme",
   "dependencies": {
-    "raknet": "^1.8.0"
+    "bedrock-protocol": "^1.43.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "raknet": "^1.8.0",
+    "uuid": "^8.3.2"
   }
 }
