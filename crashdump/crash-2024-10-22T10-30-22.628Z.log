@@ -1,0 +1,16 @@
+
+  Crash Type: uncaughtException
+  Timestamp: 10/22/2024, 10:30:22 AM
+  Error: Wrong arguments
+  Stack: TypeError: Wrong arguments
+    at new Server (/home/runner/work/PocketProX/PocketProX/node_modules/raknet-native/lib/RakNet.js:74:19)
+    at new RakNativeServer (/home/runner/work/PocketProX/PocketProX/node_modules/bedrock-protocol/src/rak.js:103:19)
+    at Server.listen (/home/runner/work/PocketProX/PocketProX/node_modules/bedrock-protocol/src/server.js:118:19)
+    at Object.createServer (/home/runner/work/PocketProX/PocketProX/node_modules/bedrock-protocol/src/createServer.js:6:10)
+    at Object.<anonymous> (/home/runner/work/PocketProX/PocketProX/server.js:12:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+  

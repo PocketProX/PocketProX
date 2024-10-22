@@ -1,0 +1,29 @@
+{
+  "name": "pocketprox",
+  "version": "1.0.0",
+  "description": "The is minecraft bedrock edition writed in js(JavaScript)",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PocketProX/PocketProX.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "KnosTx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PocketProX/PocketProX/issues"
+  },
+  "homepage": "https://github.com/PocketProX/PocketProX#readme",
+  "dependencies": {
+    "bedrock-protocol": "^3.40.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "raknet": "^1.8.0",
+    "uuid": "^8.3.2"
+  }
+}
