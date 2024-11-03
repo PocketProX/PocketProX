@@ -1,0 +1,12 @@
+{
+  "name": "@pocketprox/raknet",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "author": "pocketprox authors",
+  "dependencies": {
+    "@pocketprox/logger": "0.0.1",
+    "@pocketprox/binarystream": "0.0.1"
+  }
+}

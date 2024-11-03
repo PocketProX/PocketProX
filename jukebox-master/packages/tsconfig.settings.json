@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "declaration": true,
+    "declarationMap": true,
+    "tsBuildInfoFile": "../.tsbuildinfo",
+    "sourceMap": true,
+    "strict": true,
+    "composite": true,
+    "types": ["node"],
+    "strictPropertyInitialization": false,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true
+  }
+}

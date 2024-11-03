@@ -1,0 +1,14 @@
+{
+  "name": "@pocketprox/core",
+  "description": "Modular Minecraft: Bedrock edition server",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "author": "pocketprox authors",
+  "dependencies": {
+    "@pocketprox/raknet": "0.0.1",
+    "@pocketprox/logger": "0.0.1",
+    "@pocketprox/nbt": "0.0.1"
+  }
+}

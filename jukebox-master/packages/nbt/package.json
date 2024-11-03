@@ -1,0 +1,11 @@
+{
+  "name": "@pocketprox/nbt",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "author": "pocketprox authors",
+  "dependencies": {
+    "@pocketprox/binarystream": "0.0.1"
+  }
+}
