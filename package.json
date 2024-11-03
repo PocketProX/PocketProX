@@ -37,7 +37,7 @@
   "dependencies": {
     "comment-json": "^4.1.0",
     "fflate": "^0.7.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "pako": "^2.0.4",
     "promise-queue": "^2.2.5",
     "tasktimer": "^3.0.0",
