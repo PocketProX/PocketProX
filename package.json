@@ -21,7 +21,7 @@
     "@types/promise-queue": "^2.2.0",
     "@types/xxhashjs": "^0.2.2",
     "ava": "^3.15.0",
-    "husky": "3.0.9",
+    "husky": "9.1.6",
     "oao": "2.0.2",
     "prettier": "2.2.1",
     "pretty-quick": "2.0.0",
